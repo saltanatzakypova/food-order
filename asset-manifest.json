@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/food-order/static/css/main.997fb61e.css",
+    "main.js": "/food-order/static/js/main.8bfad106.js",
+    "static/media/summary-bacround.jpg": "/food-order/static/media/summary-bacround.0b28892d5515857671bc.jpg",
+    "static/media/basketItem.svg": "/food-order/static/media/basketItem.b8d33e94afa151b65893c6647ec288c8.svg",
+    "index.html": "/food-order/index.html",
+    "static/media/plusIcon.svg": "/food-order/static/media/plusIcon.f6449d6005345c09378ddf02e862b973.svg",
+    "main.997fb61e.css.map": "/food-order/static/css/main.997fb61e.css.map",
+    "main.8bfad106.js.map": "/food-order/static/js/main.8bfad106.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.997fb61e.css",
+    "static/js/main.8bfad106.js"
+  ]
+}
